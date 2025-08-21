@@ -72,6 +72,7 @@ Este proyecto tiene fines educativos. El dataset original está bajo la licencia
 - **Curso:** Semillero de Neuroinformática e Inteligencia Artificial (SNEIA), Univerisdad Technológica de Pereira (UTP) 
 - **Instructores:** Victor Correa, Santiago Angel, Isabella Cardona, Mariana Telléz, Mateo Morales.
 - **Dataset:** [Disponible en OpenNeuro](https://openneuro.org/datasets/ds002726/)
+- **Revista del dataset** [Spring Nature](https://link.springer.com/article/10.1007/s00429-019-01914-9)
 - **Herramientas:** FSL, Python, neuroimaging libraries
 
 ---
