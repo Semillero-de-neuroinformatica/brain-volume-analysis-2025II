@@ -2,8 +2,7 @@
 
 Este documento explica cada uno de los scripts utilizados en el pipeline de análisis de volumen cerebral, describiendo su propósito, funcionamiento y lugar en el flujo de trabajo.
 
-## ⚠️ Nota Importante sobre el Atlas
-El script `atlas_creation.sh` no funciona correctamente y no debe ser utilizado en el pipeline actual.
+
 
 ## 📋 Índice de Scripts
 
