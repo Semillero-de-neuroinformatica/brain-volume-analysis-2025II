@@ -1,0 +1,11 @@
+create shapeModel 
+done creating shapeModel 
+0.0155549 -0.751279 0.0110956 
+0.0126842 -0.136734 0.532499 
+-0.713561 0.0335987 -0.00519631 
+NEw done imodes transform
+mode  238.332
+D 
+336 1926 1926 336
+open file ./first/sub-10_first-L_Accu_first.vtk to save.
+succesfully opened file ./first/sub-10_first-L_Accu_first.vtk to save.

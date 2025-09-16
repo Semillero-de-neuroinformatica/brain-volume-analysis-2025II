@@ -1,0 +1,18 @@
+create shapeModel 
+done creating shapeModel 
+create shapeModel 
+done creating shapeModel 
+0.135405 -0.313187 1.39296 
+-1.42217 0.455179 0.00478133 
+-0.739789 -1.43742 -0.404582 
+NEw done imodes transform
+done registering model
+0.135405 -0.313187 1.39296 
+-1.42217 0.455179 0.00478133 
+-0.739789 -1.43742 -0.404582 
+NEw done imodes transform
+D 
+336 1926 1926 336
+open file ./first/sub-18_first-R_Amyg_first.vtk to save.
+succesfully opened file ./first/sub-18_first-R_Amyg_first.vtk to save.
+Exception: Not enough classes detected to init KMeans

@@ -1,0 +1,20 @@
+Error: -thr requires a number
+Image Exception : #63 :: No image files match: ./first/sub-12_first-L_Caud_corr_t1_roi_grey
+Image Exception : #22 :: Failed to read volume ./first/sub-12_first-L_Caud_corr_t1_roi_grey
+Error : No image files match: ./first/sub-12_first-L_Caud_corr_t1_roi_grey
+terminate called after throwing an instance of 'std::runtime_error'
+  what():  Failed to read volume ./first/sub-12_first-L_Caud_corr_t1_roi_grey
+Error : No image files match: ./first/sub-12_first-L_Caud_corr_t1_roi_grey
+/home/mateo/fsl/bin/first_boundary_corr: line 89: 21126 Aborted                    (core dumped) $FSLDIR/bin/fslmaths ${imout}_lb_roi -thr 100 -mas ${imout}_t1_roi_grey -bin -mul $lb ${imout}_lb_bound
+Image Exception : #63 :: No image files match: ./first/sub-12_first-L_Caud_corr_lb_bound
+Image Exception : #22 :: Failed to read volume ./first/sub-12_first-L_Caud_corr_lb_bound
+Error : No image files match: ./first/sub-12_first-L_Caud_corr_lb_bound
+terminate called after throwing an instance of 'std::runtime_error'
+  what():  Failed to read volume ./first/sub-12_first-L_Caud_corr_lb_bound
+Error : No image files match: ./first/sub-12_first-L_Caud_corr_lb_bound
+/home/mateo/fsl/bin/first_boundary_corr: line 89: 21132 Aborted                    (core dumped) $FSLDIR/bin/fslmaths ${imout}_lb_roi -uthr 100 -add ${imout}_lb_bound ${imout}_roi
+Image Exception : #63 :: No image files match: ./first/sub-12_first-L_Caud_corr_roi
+Image Exception : #22 :: Failed to read volume ./first/sub-12_first-L_Caud_corr_roi
+Error : No image files match: ./first/sub-12_first-L_Caud_corr_roi
+Failed to read volume ./first/sub-12_first-L_Caud_corr_roi
+Error : No image files match: ./first/sub-12_first-L_Caud_corr_roi
