@@ -2,14 +2,14 @@
 
 export FSLPARALLEL="" # Desactivar paralelismo en FSL
 
-BRAINS_DIR="./brains"
+BRAINS_DIR="./flirt"
 FIRST_DIR="./first"
 mkdir -p $FIRST_DIR
 
-SKIP_SUBJS=("sub-09" "sub-11" "sub-12" "sub-17" "sub-18" "sub-20")  # IDs de sujetos a excluir
+#SKIP_SUBJS=("sub-09" "sub-11" "sub-12" "sub-17" "sub-18" "sub-20")  # IDs de sujetos a excluir
 
-for BRAIN_FILE in ${BRAINS_DIR}/sub-*T1w_brain.nii.gz; do
-    SUBJ=$(basename $BRAIN_FILE _T1w_brain.nii.gz)
+for BRAIN_FILE in ${BRAINS_DIR}/sub-*flirt.nii.gz; do
+    SUBJ=$(basename $BRAIN_FILE _flirt.nii.gz)
     
     # Verificar si el sujeto está en la lista de exclusión
     if [[ " ${SKIP_SUBJS[@]} " =~ " ${SUBJ} " ]]; then

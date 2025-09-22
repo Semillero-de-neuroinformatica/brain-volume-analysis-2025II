@@ -4,7 +4,7 @@ export FSLPARALLEL="" # Desactivar paralelismo en FSL
 
 BRAINS_DIR="./brains"
 FLIRT_DIR="./flirt"
-ATLAS="../../atlas/nihpd_sym_10.0-14.0_t1w.nii"  # Ajusta si el atlas está en otra ruta
+ATLAS="./atlas/nihpd_sym_10.0-14.0_t1w_masked.nii" 
 mkdir -p $FLIRT_DIR
 
 # Sujetos a excluir

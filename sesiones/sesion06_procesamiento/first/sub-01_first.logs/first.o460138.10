@@ -1,0 +1,11 @@
+create shapeModel 
+done creating shapeModel 
+0.407543 0.115287 -0.074578 
+-0.0621717 0.097305 -0.166476 
+-0.0433598 0.174473 0.137722 
+NEw done imodes transform
+mode  81.7163
+D 
+336 1926 1926 336
+open file ./first/sub-01_first-R_Pall_first.vtk to save.
+succesfully opened file ./first/sub-01_first-R_Pall_first.vtk to save.

@@ -1,0 +1,11 @@
+create shapeModel 
+done creating shapeModel 
+0.776935 -0.00139842 -0.000391659 
+0.00490382 0.793078 0.0145078 
+-0.0120393 -0.156495 0.662625 
+NEw done imodes transform
+mode  268.354
+D 
+336 1926 1926 336
+open file ./first/sub-02_first-BrStem_first.vtk to save.
+succesfully opened file ./first/sub-02_first-BrStem_first.vtk to save.

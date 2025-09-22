@@ -1,0 +1,18 @@
+create shapeModel 
+done creating shapeModel 
+create shapeModel 
+done creating shapeModel 
+0.79223 -0.000637625 -0.00158773 
+-0.0122712 0.834909 0.03932 
+0.00204189 -0.152057 0.615293 
+NEw done imodes transform
+done registering model
+mode  252.132
+0.79223 -0.000637625 -0.00158773 
+-0.0122712 0.834909 0.03932 
+0.00204189 -0.152057 0.615293 
+NEw done imodes transform
+D 
+336 1926 1926 336
+open file ./first/sub-06_first-R_Amyg_first.vtk to save.
+succesfully opened file ./first/sub-06_first-R_Amyg_first.vtk to save.
